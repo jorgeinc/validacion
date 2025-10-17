@@ -1,0 +1,77 @@
+body 
+{  
+        background-color:antiquewhite;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+}
+
+h1
+{
+         background-color: black;
+         margin-left: auto;
+         margin-right: auto;
+         border-style: solid;
+         border-radius: 55px;
+         white-space: normal;
+         width: 400px;
+         border-width:thin;
+         font-family: cursive;
+         color:rgb(245, 234, 236);
+         text-decoration:underline;
+         text-align: center;
+         font-size:4em;
+}
+.button 
+{
+        text-align: center;
+        height: 30px;
+
+}
+
+.button[type=number]
+{
+    background-position:center ;
+    text-align: center;
+    width: 200px;
+    padding: 12px;
+    box-sizing: border-box;
+    margin-top: 20px 0;
+    
+}
+
+p  
+{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-align: center;
+
+}
+.pie
+{
+    font-family:'Courier New', Courier, monospace;
+    background-color: black;
+    border-radius: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 87px;
+    width: 1001px;
+    clear: both;
+}
+
+#pie2
+{
+    color:azure;
+    text-align: center;
+    height: 20px;
+    margin: auto;
+    font-size:40px;
+}
+
+#pie3
+{
+    color:blanchedalmond;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px
+}
