@@ -23,25 +23,16 @@ h1
          text-align: center;
          font-size:4em;
 }
-.button 
-{
-        text-align: center;
-        height: 30px;
-        width: 200px;
-        padding: 12px;
-        box-sizing: border-box;
-        margin-top: 20px 0;
 
-}
 
 .button[type=number]
 {
-    background-position:center ;
-    text-align: center;
-    width: 200px;
-    padding: 12px;
-    box-sizing: border-box;
-    margin-top: 20px 0;
+     text-align: center;
+     height: 30px;
+     width: 200px;
+     padding: 12px;
+     box-sizing: border-box;
+     margin-top: 20px 0;
     
 }
 
@@ -80,4 +71,5 @@ p
     font-size: 12px
 
 }
+
 
