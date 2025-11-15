@@ -15,7 +15,7 @@ h1
          border-style: solid;
          border-radius: 55px;
          white-space: normal;
-         width: 600px;
+         width: 800px;
          border-width:thin;
          font-family: cursive;
          color:rgb(245, 234, 236);
@@ -25,7 +25,7 @@ h1
 }
 
 
-.button
+button
 {
      height: 30px;
      width: 200px;
@@ -71,6 +71,7 @@ p
     font-size: 12px
 
 }
+
 
 
 
