@@ -31,9 +31,10 @@ function mod10_luhn(id_ced = document.querySelector('#id-ced').value)
     console.log(((cont + Number(check)) % 10 == 0) ? "Cedula Valida" : "Cedula No Valido");
     if ((cont + Number(check)) % 10 == 0)
     {
-        document.querySelector('#verificacion').innerHTML = "Correcta!"
+        document.querySelector('#verification').innerHTML = "Correcta!"
     } else {
-        document.querySelector('#verificacion').innerHTML = "Cedula no es Valida"
+        document.querySelector('#verification').innerHTML = "Cedula no es Valida"
     }
     console.log(cont * 9);
+
 }    
