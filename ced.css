@@ -33,13 +33,13 @@ button
      width: 200px;
      padding: 12px;
      box-sizing: border-box;
-     margin: auto;   
-     margin-top: 100px;
+     
     
 }
 
 p  
 {
+        border-style: solid;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
         text-align: center;
 
@@ -73,6 +73,7 @@ p
     font-size: 12px
 
 }
+
 
 
 
